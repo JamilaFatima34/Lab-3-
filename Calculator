@@ -18,3 +18,19 @@ Console.WriteLine("Enter the Second num");
 int y= Convert.ToInt32(Console.ReadLine());
 double z= x-y
 Console.WriteLine("substraction is" + z);
+
+Multiplication:
+Console.WriteLine("Enter the First num");
+int x= Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the Second num");
+int y= Convert.ToInt32(Console.ReadLine());
+double z= x*y
+Console.WriteLine("multiplication is" + z);
+
+Division:
+Console.WriteLine("Enter the First num");
+int x= Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the Second num");
+int y= Convert.ToInt32(Console.ReadLine());
+double z= x/y
+Console.WriteLine("division is" + z);
