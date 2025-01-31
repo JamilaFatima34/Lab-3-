@@ -1,0 +1,4 @@
+Console.WriteLine("Enter the Name");
+string name = Console.ReadLine():
+Console.WriteLine("Enter your Roll Number");
+double name = Convert.ToInt32(Console.ReadLine());
