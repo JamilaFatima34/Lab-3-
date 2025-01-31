@@ -2,3 +2,11 @@ Console.WriteLine("Enter the Name");
 string name = Console.ReadLine():
 Console.WriteLine("Enter your Roll Number");
 double name = Convert.ToInt32(Console.ReadLine());
+
+Addition:
+Console.WriteLine("Enter the First num");
+int x= Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the Second num");
+int y= Convert.ToInt32(Console.ReadLine());
+double z= x+y
+Console.WriteLine("sum is" + z);
